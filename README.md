@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Connect on LinkedIn(https://www.linkedin.com/in/prasanna-y-6a45b5232/)
+Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/)
 
 <!--
 **prasanna2l/prasanna2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
