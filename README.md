@@ -1,10 +1,11 @@
 # Hi there   👋
 
 Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/)
+<!--
 <p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
 <h1 align="center">SDET</h1>
 <p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
-<!--
+
 **prasanna2l/prasanna2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
