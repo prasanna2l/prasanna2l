@@ -1,6 +1,7 @@
 # Hi there   👋
 
 Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/)
+![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
 
 <!--
 **prasanna2l/prasanna2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
