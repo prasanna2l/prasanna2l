@@ -1,6 +1,8 @@
 # Hi there   👋
 
 Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/)
+<h2 align="left" style="display: flex; align-items: center;"><img src="GIF/stats.gif" width="40px" height="40px" style="vertical-align: middle;" align="center"><i> GitHub Stats </i>
+</h2>
 <h1 align="left"><em>Stats</em></h1>
 
 <!--
