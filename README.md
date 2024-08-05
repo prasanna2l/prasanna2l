@@ -1,6 +1,6 @@
 # Hi there   👋
 
-**Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/) **
+**Connect on [LinkedIn](https://www.linkedin.com/in/prasanna-y-6a45b5232/)**
 <h5>(from GitLab community)</h5>
 <h1 align="left" style="display: flex; align-items: center;"><img src="stats.gif" width="40px" height="40px" style="vertical-align: middle;" align="center"><i> Stats </i>
 </h1>
