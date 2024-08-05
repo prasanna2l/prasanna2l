@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=Prasanna2l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Prasanna2l's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Prasanna2l's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanna2l&theme=highcontrast&hide_border=true" alt="Prasanna2l's GitHub Stats" />
